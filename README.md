@@ -2,7 +2,7 @@
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on linux fundation
-- 📫 How to reach me dantabarez on twitter
+- 📫 How to reach me @dptabarez on twitter
 
 <!---
 dantabarez/dantabarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
